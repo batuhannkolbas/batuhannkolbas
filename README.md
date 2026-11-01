@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @batuhannkolbas
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to improve myself on banking ecosystem
 - 📫 How to reach me: https://www.linkedin.com/in/batuhan-sedat-kolbas/
 
 <!---
